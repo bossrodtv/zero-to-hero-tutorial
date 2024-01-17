@@ -5,10 +5,10 @@
 - Download & Install [Visual Studio Code](https://code.visualstudio.com/download)
 
 - **VSCode Plugins**
-  - Download & Install [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-  - Download & Install [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
   - Download & Install [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+  - Download & Install [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
   - Download & Install [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  - Download & Install [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Tutorial Video
 
