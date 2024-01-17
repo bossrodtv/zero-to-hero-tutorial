@@ -1,11 +1,8 @@
-# Web Development Tutorial from Zero to Hero - Step 5 (JS)
+# Web Development Tutorial from Zero to Hero - Step 7 (JS DOM Manipulation)
 
-## JS
-- JS stands for **JavaScript**
-- JS is a programming language
-- JS is responsible for the behavior of a web page
-- JS is responsible for the interactivity of a web page
-- JS is responsible for the logic of a web page
+## JS DOM Manipulation
+- JS DOM stands for **JavaScript Document Object Model**
+- JS DOM is a standard for accessing HTML elements
 
 ## Tutorial Video
 

@@ -1,13 +1,17 @@
 # Web Development Tutorial from Zero to Hero
 
-## Steps
+## Steps (Recommended)
 
 - [Step 1 - Setup Tools](./step-1_setup-tools/README.md) 
 - [Step 2 - Git](./step-2_git/README.md)
 - [Step 3 - HTML](./step-3_html/README.md)
 - [Step 4 - CSS](./step-4_css/README.md)
-- [Step 5 - JavaScript](./step-5_javascript/README.md)
-- [Step 6 - JS DOM Manipulation](./step-6_js-dom-manipulation/README.md)
+- [Step 5 - TailwindCSS](./step-5_tailwindcss/README.md)
+- [Step 6 - JavaScript](./step-6_javascript/README.md)
+- [Step 7 - JS DOM Manipulation](./step-7_js-dom-manipulation/README.md)
+
+## Bonus
+- [Bonus - My VSCode Plugins & Settings](./bonus_my-vscode-plugins-and-settings/README.md)
 
 ## Support me:
 

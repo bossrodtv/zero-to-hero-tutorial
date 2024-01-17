@@ -1,5 +1,8 @@
 # Web Development Tutorial from Zero to Hero - Step 2 (Git)
 
+## Pre-requisites
+- Download & Install [Git](https://git-scm.com/downloads)
+
 ## Git
 - Git is a **version control system**
 - Git is a tool that helps you manage your code
