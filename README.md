@@ -7,7 +7,7 @@
 - [Step 3 - HTML](./step-3_html/README.md)
 - [Step 4 - CSS](./step-4_css/README.md)
 - [Step 5 - TailwindCSS](./step-5_tailwindcss/README.md)
-- [Step 6 - JavaScript](./step-6_javascript/README.md)
+- [Step 6 - JavaScript](./step-6_js/README.md)
 - [Step 7 - JS DOM Manipulation](./step-7_js-dom-manipulation/README.md)
 
 ## Bonus
