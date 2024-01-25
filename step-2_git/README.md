@@ -13,7 +13,7 @@
 
 - Watch the full video below:
 
-[Link Here](https://www.youtube.com/bossrodtv)
+[![Web Development Tutorial From Zero to Hero](https://img.youtube.com/vi/-nhHApS9Jqo/0.jpg)](https://www.youtube.com/watch?v=-nhHApS9Jqo)
 
 ## Support me:
 
