@@ -8,7 +8,7 @@
 
 - Watch the full video below:
 
-[![Web Development Tutorial From Zero to Hero](https://img.youtube.com/vi/Cjz8eNnu3LI/0.jpg)](https://www.youtube.com/watch?v=Cjz8eNnu3LI)
+[![Web Development Tutorial From Zero to Hero](https://img.youtube.com/vi/soon/0.jpg)](https://www.youtube.com/watch?v=soon)
 
 ## Support me:
 
