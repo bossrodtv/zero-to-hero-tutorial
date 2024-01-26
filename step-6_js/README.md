@@ -11,7 +11,7 @@
 
 - Watch the full video below:
 
-[![Web Development Tutorial From Zero to Hero](https://img.youtube.com/vi/soon/0.jpg)](https://www.youtube.com/watch?v=soon)
+[![Web Development Tutorial From Zero to Hero](https://img.youtube.com/vi/7M6VorFgarM/0.jpg)](https://www.youtube.com/watch?v=7M6VorFgarM)
 
 ## Support me:
 
